@@ -37,7 +37,7 @@
                 <key>bundle-identifier</key>
                 <string>com.gotrain.ycsy.elms</string>        				<!-- 游戏的bundleId, 比如com.linxinfa.mygame -->
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>00.00.0002</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
