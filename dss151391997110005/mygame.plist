@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://chenxiaoqiang1988.github.io/ios-distribution/dss151391997110005/dss151391997110005.ipa</string>          <!-- ipaµÄhttpµØÖ· -->
+                    <string>https://chenxiaoqiang1988.github.io/ios-distribution/dss151391997110005/dss151391997110005.ipa</string>          <!-- ipaçš„httpåœ°å€ -->
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,19 +29,19 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>https://chenxiaoqiang1988.github.io/ios-distribution/dss151391997110005/Icon.png</string>      		<!-- ÏÔÊ¾µÄÍ¼±ê.pngµÄhttpµØÖ· -->
+                    <string>https://chenxiaoqiang1988.github.io/ios-distribution/dss151391997110005/Icon.png</string>      		<!-- æ˜¾ç¤ºçš„å›¾æ ‡.pngçš„httpåœ°å€ -->
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.gotrain.ycsy.elms</string>        				<!-- ÓÎÏ·µÄbundleId, ±ÈÈçcom.linxinfa.mygame -->
+                <string>com.gotrain.ycsy.elms</string>        				<!-- æ¸¸æˆçš„bundleId, æ¯”å¦‚com.linxinfa.mygame -->
                 <key>bundle-version</key>
                 <string>00.00.0002</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ÒÆ¶¯Ñ§Ï°</string>   							 <!-- ÓÎÏ·Ãû×Ö -->
+                <string>ç§»åŠ¨å­¦ä¹ </string>   							 <!-- æ¸¸æˆåå­— -->
             </dict>
         </dict>
     </array>
