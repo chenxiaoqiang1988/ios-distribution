@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.0.175/test_course/moblie/dss151391997110005/dss151391997110005.ipa</string>          <!-- ipa的http地址 -->
+                    <string>https://github.com/chenxiaoqiang1988/ios-distribution/dss151391997110005/dss151391997110005.ipa</string>          <!-- ipa的http地址 -->
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,7 +29,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.168.0.175/test_course/moblie/dss151391997110005/Icon.png</string>      		<!-- 显示的图标.png的http地址 -->
+                    <string>https://github.com/chenxiaoqiang1988/ios-distribution/dss151391997110005/Icon.png</string>      		<!-- 显示的图标.png的http地址 -->
                 </dict>
             </array>
             <key>metadata</key>
